@@ -1,0 +1,29 @@
+Matrix
+
+Matrix(m,n) - m*n , m-oszlop, n-sor
+Matrix(n) - n*x
+Matrix() - 3*3
+
+//Konzol alkalmazás
+//tömböt használunk
+//generikus <T>
+//! ha nem szám, akkor kivétel **
+
+
+//ToString() felülírás olyan Output, ami megjeleníthető. Nem tartalmaz Console.WritelLine
+
+//Így kell kiíratni
+| 123 , 1234 , 345 |
+| 123 , 1234 , 345 |
+| 123 , 1234 , 345 |
+| 123 , 1234 , 345 |
+
+
+// névadás önöké, ami a mátrix méretét adja vissza (oszlop száma, sorok száma)
+
+// Matrix Add(Matrix A, Matrix B) - Két mátrixot ad össze.  osztálymetódus?
+
+// Fill(<T> elem) - vmi.Fill(12) Példánymetódus
+
+// Extrát kérek! RotateX, RotateY
+
